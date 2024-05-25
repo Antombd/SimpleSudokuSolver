@@ -1,4 +1,4 @@
-# SudokuSolver
+# SimpleSudokuSolver
 using backtracking
 
 Input:

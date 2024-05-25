@@ -55,7 +55,7 @@ void Solve(vector<pair<int, int>> &blanks, int i)
                     cout << layout[row][column] << ' ';
                 cout << endl;
             }
-            return ;    // remove this line if you want all solutions
+            return ;
         }
         else
             Solve(blanks, i + 1);

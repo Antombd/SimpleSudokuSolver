@@ -1,6 +1,8 @@
 # SimpleSudokuSolver
 using backtracking
 
+best use: find a solution
+
 Input:
 
 X X X 2 X X 7 8 X
